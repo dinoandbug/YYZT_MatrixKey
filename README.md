@@ -1,6 +1,10 @@
 Simple to use Arduino library to interface matrix keypads.
-  作者:一叶遮天
-  作者博客:blog.yyzt.site
+
+  作者: 一叶遮天
+  
+  作者博客: https://blog.yyzt.site
+  
+  
  * 程序功能：获取矩阵按键按下后的键值
  * 使用教程：https://blog.yyzt.site/
  * 注意事项：1.行引脚作为输入（默认为上拉输入），列引脚作为输出
